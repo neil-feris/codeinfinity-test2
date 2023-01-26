@@ -1,0 +1,21 @@
+{
+  "name": "neilf/test2",
+  "description": "CodeInfinity Proficiency Test 2",
+  "type": "project",
+  "require": {
+    "league/csv": "^9.8",
+    "doctrine/dbal": "^3.5",
+    "ext-pdo_sqlite": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Neilf\\Test2\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Neil Feris",
+      "email": "neil.feris@gmail.com"
+    }
+  ]
+}
