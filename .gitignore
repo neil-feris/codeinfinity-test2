@@ -4,3 +4,5 @@
 composer.phar
 /vendor/
 
+src/db.sqlite
+src/output/output.csv
